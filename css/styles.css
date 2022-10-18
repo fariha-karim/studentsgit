@@ -9,3 +9,8 @@ h3{
     color: #fff;
     font-weight: 600;
 }
+button{
+    padding:10px 20px ;
+    background-color: violet;
+    color: #fff;
+}
